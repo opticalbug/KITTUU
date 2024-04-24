@@ -2,9 +2,9 @@ let highestZ = 1;
 
 class Paper {
   holdingPaper = false;
-  touchStartX = 0;
+  touchStartX = 1px;
   touchStartY = 0;
-  touchMoveX = 0;
+  touchMoveX = 10;
   touchMoveY = 0;
   touchEndX = 0;
   touchEndY = 0;
